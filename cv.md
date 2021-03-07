@@ -1,3 +1,23 @@
+# rsschool-cv
+
+# Anastasiia Ukrainska
+
+<nastyaukrainska@gmail.com> * [linkedIn](https://www.linkedin.com/in/anastasiia-ukrainska-6b5a08a5/) * [github](https://github.com/NSantur)
+
+***
+> Friendly, empathic, responsible.  
+> Highly motivated individual dedicated to writing clear, robust code that works.    
+> Striving to never stop learning and improving.  
+> In code I trust
+***
+
+
+## Skills
+***
+
+> JavaScript CSS HTML  
+> Git(GitHub), NPM, ESLint
+>
 ***
 ## Examples of code
 
